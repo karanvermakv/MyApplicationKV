@@ -29,4 +29,12 @@
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="103dp" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="newsfeed"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="83dp" />
+
 </android.support.constraint.ConstraintLayout>
