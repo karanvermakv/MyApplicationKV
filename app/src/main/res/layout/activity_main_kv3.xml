@@ -41,7 +41,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="welcome"
+        android:text="welcome to my app"
         tools:layout_editor_absoluteX="111dp"
         tools:layout_editor_absoluteY="343dp" />
 
